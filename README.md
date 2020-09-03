@@ -10,7 +10,7 @@ My related links:<br/>
 [Website](https://nadie.dev/)<br/>
 [keybase](https://keybase.io/nadie)<br/>
 [keybase proof](https://gist.github.com/Hackerjef/e1be24f81f09a47e8dd0c4f43c5c93fc)<br/>
-<br/><br/>
+<br/>
 
 Aperture related Things:<br/>
 [Bot support guild](https://aperturebot.science/discord)<br/>
