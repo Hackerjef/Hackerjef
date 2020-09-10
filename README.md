@@ -25,4 +25,4 @@ Command Cleanup related Things:<br/>
 [Bot docs](https://github.com/FatAussieFatBoy/CommandCleanup/blob/master/README.md)<br/>
 [Bot Github](https://github.com/FatAussieFatBoy/CommandCleanup)<br/>
 
-Yes I do alot of bot stuff but 
+Yes I do alot of bot stuff but I'm not that smart with english 👀
