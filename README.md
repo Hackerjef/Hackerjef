@@ -25,4 +25,7 @@ Command Cleanup related Things:<br/>
 [Bot docs](https://github.com/FatAussieFatBoy/CommandCleanup/blob/master/README.md)<br/>
 [Bot Github](https://github.com/FatAussieFatBoy/CommandCleanup)<br/>
 
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Hackerjef)](https://github.com/anuraghazra/github-readme-stats)
+
 Yes I do alot of bot stuff but I'm not that smart with english 👀
