@@ -26,7 +26,7 @@ Command Cleanup related Things:<br/>
 [Bot Github](https://github.com/FatAussieFatBoy/CommandCleanup)<br/>
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Hackerjef&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Discord](https://lanyard-profile-readme.vercel.app/api/142721776458137600)](https://discord.com/users/142721776458137600)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Hackerjef&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Yes I do alot of bot stuff but I'm not that smart with english 👀
