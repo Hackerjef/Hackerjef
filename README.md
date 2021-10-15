@@ -27,5 +27,6 @@ Command Cleanup related Things:<br/>
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Hackerjef)](https://github.com/anuraghazra/github-readme-stats)
+[![Discord](https://lanyard-profile-readme.vercel.app/api/142721776458137600)](https://discord.com/users/142721776458137600)
 
 Yes I do alot of bot stuff but I'm not that smart with english 👀
