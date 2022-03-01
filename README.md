@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey! I do stuff on discord, yeah that's pmuch it other then I'm a verified bot dev for Aperture. Been an admin for mutable communities over the past 4+ years on steam, Minecraft & discord. 
+Hey! I do stuff on discord, yeah that's pmuch it other then I'm a verified bot dev for Aperture. Been an admin for multable communities over the past 7+ years on steam, Minecraft & discord. 
 
 My related links:<br/>
 [Twitter](https://twitter.com/hackerjef/)<br/>
