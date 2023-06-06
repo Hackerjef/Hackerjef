@@ -4,7 +4,7 @@ Hey! I do stuff on discord, yeah that's pmuch it other then I'm a verified bot d
 
 My related links:<br/>
 [Twitter](https://twitter.com/hackerjef/)<br/>
-[Discord](https://discord.bio/p/Nadie)  **Nadie#0063**<br/>
+[Discord](https://discord.bio/p/Nadie)  ~~**Nadie#0063**~~ `nadie`<br/>
 [Steam](https://steamcommunity.com/profiles/76561198081061317/)<br/>
 [Twitch](https://twitch.tv/nadie63/)<br/>
 [Website](https://nadie.dev/)<br/>
