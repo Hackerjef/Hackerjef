@@ -17,15 +17,6 @@ Aperture related Things:<br/>
 [Bot add](http://add.aperturebot.science/)<br/>
 [Bot docs](https://aperturebot.science/docs/)<br/>
 
-
-Command Cleanup related Things:<br/>
-[Top.gg](https://top.gg/bot/420013638468894731)<br/>
-[Bot support guild](https://discord.gg/Gkdbyeh)<br/>
-[Bot add](https://discordapp.com/api/oauth2/authorize?client_id=420013638468894731&permissions=75904&scope=bot)<br/>
-[Bot docs](https://github.com/FatAussieFatBoy/CommandCleanup/blob/master/README.md)<br/>
-[Bot Github](https://github.com/FatAussieFatBoy/CommandCleanup)<br/>
-
-
 [![Discord](https://lanyard-profile-readme.vercel.app/api/142721776458137600)](https://discord.com/users/142721776458137600)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Hackerjef&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
